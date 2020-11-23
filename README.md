@@ -6,7 +6,8 @@
 
 ## Prepare data
 1. Please use **git clone --recurse-submodules** to clone this repository and remember to follow initialization steps in coco-caption/README.md.
-2. Download the preprocessd dataset from this [link](www.google.com) and extract it to data/.
+2. Download the preprocessd dataset from this [link](https://pan.baidu.com/s/1rGX-18JJGq9WmDCZ_saidw 
+password:6666) and extract it to data/.
 3. Please follow this [instruction](https://github.com/ruotianluo/self-critical.pytorch/blob/master/data/README.md#convert-from-peteanderson80s-original-file) to prepare the bottom-up features and place them under data/mscoco/.
 4. Download the pretrained models from this [link](www.google.com) and extract them to log/.
 
