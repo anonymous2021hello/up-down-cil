@@ -1,4 +1,4 @@
-# Counterfactual Introspective Learning for Visual Captioning (up-down-cil branch)
+# up-down-cil branch
 
 ## Requirements
 - Python 3.8
