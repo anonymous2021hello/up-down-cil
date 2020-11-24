@@ -21,7 +21,7 @@ bash eval_up-down.sh
 ## Training
 For example, training the up-down model with cexe_weight=0.5 on Robust-COCO dataset
 ```
-python train.py  --learning_rate 5e-4 --learning_rate_decay_start 0 --scheduled_sampling_start 0 --checkpoint_path log/cexe-sup-kl-w0.5  --id  cexe-sup-kl-w0.5  --dataset  robust-coco
+python train.py  --learning_rate 5e-4 --learning_rate_decay_start 0 --scheduled_sampling_start 0 --checkpoint_path log/cexe-sup-kl-w0.5  --id  cexe-sup-kl-w0.5  --cexe_weight  0.5  --dataset  robust-coco
 ```
 
 ## Acknowledgements
